@@ -35,6 +35,13 @@ https://www.sap.com/developer/tutorials/hcp-cf-getting-started.html
 * Connect to cloud foundry via the command line
 ```
 cf api https://api.cf.eu10.hana.ondemand.com
+
+cf login 
+...
+cf push ... 
+
+...
+cf logout // lo 
 ```
 Frankfurt: https://api.cf.eu10.hana.ondemand.com
 
