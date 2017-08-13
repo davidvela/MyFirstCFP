@@ -6,9 +6,7 @@ test - UI5CON 2017 - Waldorf
 
 screenshot of the app published in CF
 ![Pic1](https://github.com/davidvela/MyFirstCFP/blob/master/img/img1.png)
-
-
-
+.
 
 ## Getting started
 
