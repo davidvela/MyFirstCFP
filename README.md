@@ -1,3 +1,15 @@
+# My First Cloud Foundry Project!
+
+test - UI5CON 2017 - Waldorf 
+
+# Intro: 
+
+screenshot of the app published in CF
+![Pic1](https://github.com/davidvela/MyFirstCFP/blob/master/img/img1.png)
+
+
+
+
 ## Getting started
 
 * Install node.js (get it from [nodejs.org](http://nodejs.org/)).
@@ -26,6 +38,9 @@ https://www.sap.com/developer/tutorials/hcp-cf-getting-started.html
 ```
 cf api https://api.cf.eu10.hana.ondemand.com
 ```
+Frankfurt: https://api.cf.eu10.hana.ondemand.com
+
+
 
 ## Prepare your application for deployment to cloud foundry
 
